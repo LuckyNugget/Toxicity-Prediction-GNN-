@@ -1,0 +1,3 @@
+Hi! Here are some basic libraries needed!
+
+Torch, RDKit, Pandas, Numpy, Networkx, pubchempy
